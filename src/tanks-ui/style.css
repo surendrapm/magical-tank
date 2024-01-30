@@ -1,0 +1,37 @@
+.tank-container{
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+    border: 10px solid white;
+    margin: 40px;
+}
+
+.water{
+    position: relative;
+    top: 79.9%;
+    height: 60px;
+    width: 250px;
+    background-color: aqua;
+}
+
+.addbtn{
+    background-color: greenyellow;
+    height: 40px;
+    width: 50%;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: black;
+}
+
+.emptybtn{
+    background-color: lightcoral;
+    height: 40px;
+    width: 50%;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: black;
+}
