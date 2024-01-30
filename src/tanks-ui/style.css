@@ -1,4 +1,7 @@
 .tank-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: self-end;
     height: 300px;
     width: 250px;
     border-radius: 10px;
@@ -6,13 +9,7 @@
     margin: 40px;
 }
 
-.water{
-    position: relative;
-    top: 79.9%;
-    height: 60px;
-    width: 250px;
-    background-color: aqua;
-}
+
 
 .addbtn{
     background-color: greenyellow;
